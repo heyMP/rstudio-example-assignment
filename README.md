@@ -1,3 +1,5 @@
+[Open in Container 🐳](http://cod.docker.localhost/?image=heymp/activity-graph-replication&host=demo.docker.localhost&port=8787&env=DISABLE_AUTH=true&redirect=true)
+
 # Activity: Graph Replication
 
 ## Activity
@@ -16,4 +18,3 @@ Assignment is worth a total of 10 points
 
 - [5 points] Problem 5.3 completion 
 - [5 points] Problem 5.4 completion
-
