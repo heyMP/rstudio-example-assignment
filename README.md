@@ -1,4 +1,4 @@
-[Open in Container 🐳](http://cod.docker.localhost/?image=heymp/activity-graph-replication&host=demo.docker.localhost&port=8787&env=DISABLE_AUTH=true&redirect=true)
+[Open in Container 🐳](http://cod.heymp.com/?image=heymp/activity-graph-replication&host=demo.docker.localhost&port=8787&env=DISABLE_AUTH=true&redirect=true)
 
 # Activity: Graph Replication
 
